@@ -306,7 +306,7 @@ the dividing A by B will give:
 
 So at the next step we will be dividing B by A and the algorithms works as expected.
 
-## removing temporary variables
+## Removing temporary variables
 
 Instead of creating variables `r3, x3, y3`
 
