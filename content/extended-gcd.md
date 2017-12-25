@@ -49,7 +49,7 @@ on top of giving the GCD,
 gives some coefficients X and Y
 such that gcd(A, B) = X*A + Y*B.
 
-# Brainstorming
+## Brainstorming
 
 Let us try to find the X and Y for A = 120 and B = 23.
 One way to do it would be to compute the GCD using the normal euclidean algorithm
@@ -102,7 +102,7 @@ until we find the one that is equal to the GCD (the GCD of 120 and 23 is 1).
         ...: # but how much time is this going to take me until I find the right combination?
         ...:
 
-# The Trick
+## The Trick
 
 Let's be smarter than that.
 
@@ -175,7 +175,7 @@ and the coefficients corresponding to it are the ones we were looking for.
 Now we need to prove that this is not only the smallest number we could get with our trick,
 but that it is also the smallest combination possible. 
 
-# Proof of Correctness
+## Proof of Correctness
 
 One way to prove that R(i-1) = gcd(A,B)
 is to remember a property of the GCD
@@ -196,7 +196,7 @@ And thus:
     R(i-1)          = gcd(A, B)
     (Since gcd(X,0) = X for all X)
 
-# The algorithm
+## The algorithm
 
 The algorithm is going to be mainly a loop
 that iterates until we find a GCD equal to zero.
@@ -288,12 +288,12 @@ So here is the algorithm we obtain:
             
         return (r1, x1, y1)
 
-# Optimizations?
+## Optimizations?
 
 There are a few "improvements" we could think about,
 but I would rather keep the code as it is now.
 
-## Handling A smaller than B
+### Handling A smaller than B
 
 At the beginning we assumed that A was greater than B;
 do problems arise when it's not the case?
@@ -306,7 +306,7 @@ the dividing A by B will give:
 
 So at the next step we will be dividing B by A and the algorithms works as expected.
 
-## Removing temporary variables
+### Removing temporary variables
 
 Instead of creating variables `r3, x3, y3`
 
