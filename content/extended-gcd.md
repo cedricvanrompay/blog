@@ -1,3 +1,8 @@
+---
+publication date: 2017-12-16
+slug: extended-gcd
+---
+
 # The Extended Euclidean Algorithm Explained
 
 As a PhD student at EURECOM (https://www.eurecom.fr)
