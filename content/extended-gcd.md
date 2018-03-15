@@ -186,7 +186,7 @@ One way to prove that R(i-1) = gcd(A,B)
 is to remember a property of the GCD
 that is central to the normal euclidean algorithm:
 
-    gcd(A + MB) = gcd(A, B) for all M
+    gcd(A + MB, B) = gcd(A, B) for all M
 
 As a consequence we have:
 
