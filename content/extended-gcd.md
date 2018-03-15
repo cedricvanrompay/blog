@@ -119,7 +119,7 @@ when we are kids.
 We learn to do the division of A by B
 by trying A - B, A - 2B, A - 3B...
 until "we cannot subtract any more Bs".
-More formally, doing to euclidean division of A by B consists in finding Q and R such that
+More formally, doing the euclidean division of A by B consists in finding Q and R such that
 
     A = QB + R
     and R < B
