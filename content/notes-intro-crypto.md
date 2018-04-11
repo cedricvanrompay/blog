@@ -7,7 +7,7 @@ publication date: 2018-04-11
 Most intro to cryptography start by presenting the caesar cipher, then how to break it using letter frequency, then most of the time the Vigenere cipher and a few more steps including the one-time pad
 to go to a presentation of AES.
 At least that's how I remember the beginning of my first course on crypto.
-This is a (crude) reflexion on how I would make an introduction to cryptography for the kind of public we were as EURECOM students.
+The following is a (crude) reflexion on how I would make an introduction to cryptography for the kind of public we were as EURECOM students.
 
 I think I would start by simple word subsitution
 because that is the most intuitive form of secret code.
