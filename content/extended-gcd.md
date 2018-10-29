@@ -305,7 +305,7 @@ do problems arise when it's not the case?
 
 The answer is no.
 If B is greater than A,
-the dividing A by B will give:
+then dividing A by B will give:
 
     A = 0*B + A
 
@@ -320,7 +320,7 @@ Their purpose is to be stored in `r2, x2, y2` at the end of the iteration.
 The reason why we do not directly assign `r2, x2, y2` to their new value
 is because we need to remember their previous value
 to store them in `r1, x1, y1`.
-However we cannot do this either ahead of time
+However this also cannot be done ahead of time
 because we need the previous values of `r1, x1, y1` for the computation of `r3, x3, y3`.
 
 The Python language provides a workaround with *multiple assignement*,
