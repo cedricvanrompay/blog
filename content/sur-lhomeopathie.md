@@ -7,7 +7,7 @@ slug: sur-lhomeopathie
 
 Les détracteurs de l'homéopathie citent le fait qu'elle n'a pas plus d'effet qu'un placebo.
 Ses défenseurs citent de nombreux cas de gens qui vont mieux grâce à des traitements homéopathiques.
-Derrière cet apparent paradoxe ce cache un véritable dialogue de sourds,
+Derrière cet apparent paradoxe se cache un véritable dialogue de sourds,
 et un difficile problème philosophique :
 si vous pouvez soigner quelqu'un avec un mensonge, est-il forcément mieux de lui dire la vérité ?
 
