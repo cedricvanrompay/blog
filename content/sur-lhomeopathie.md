@@ -111,7 +111,7 @@ Dans ce cas précis la dérive à laquelle je pense
 est que les gens veulent un médicament pour traiter le moindre de leur problèmes.
 Or cette tendance à tout vouloir résoudre par les médicaments
 n'a pas eu besoin de l'homéopathie pour prospérer.
-S'il y aurait quelqu'un à accuser là-dessus,
+S'il y avait quelqu'un à accuser là-dessus,
 ce serait plutôt la médecine moderne et l'industrie pharmaceutique
 qui ont beaucoup de mal à résister à l'appel du consumérisme.
 En vérité, le problème des gens qui prennent trop de médicaments sans ce que soit nécessaire
