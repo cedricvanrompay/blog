@@ -138,9 +138,9 @@ La situation idéale serait que les gens
 soient plus raisonables quand à leur consomation de médicaments
 et "cherchent la solution en eux-mêmes".
 Mais quand l'on n'y parvient pas,
-je peut comprendre que l'on puisse voir l'homéopathie comme un "moindre mal".
+je peux comprendre que l'on puisse voir l'homéopathie comme un "moindre mal".
 
-Il y aurait plein d'autre choses à dire sur l'homéopathie,
+Il y aurait plein d'autres choses à dire sur l'homéopathie,
 mais le reste me semble être commun à tout le domaine des "sciences alternatives".
 Or je voulais limiter ce billet à cette spécificité de l'homéopathie
 qui est le pouvoir formidable de l'effet placebo et du dilemme qui va avec.
