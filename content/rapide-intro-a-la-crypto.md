@@ -1,5 +1,6 @@
 ---
-date published: 2018-11-07
+publication date: 2018-11-07
+slug: une-tres-rapide-introduction-a-la-cryptographie
 ---
 
 # Une (très) Rapide Introduction à la Cryptographie
@@ -8,7 +9,7 @@ date published: 2018-11-07
 
 La cryptographie, c'est l'étude de *l'information en présence d'un adversaire*.
 
-Regardons cette définition de plus près. Il faut que ce qu'on veuille protéger soit de l'information: si vous cherchez à protéger votre vélo par exemple, il vous faut un antivol, pas un protocole cryptographique. C'est parce que votre vélo est un objet physique, pas de l'information. Si votre antivol fonctionne avec un code secret, ce code secret, lui, est de l'information: si vous voulez l'envoyer de façon sécurisée à quelqu'un, vous allez peut-être devoir utiliser la cryptographie.
+Regardons cette définition de plus près. Il faut que ce qu'on veut protéger soit de l'information: si vous cherchez à protéger votre vélo par exemple, il vous faut un antivol, pas un protocole cryptographique. C'est parce que votre vélo est un objet physique, pas de l'information. Si votre antivol fonctionne avec un code secret, ce code secret, lui, est de l'information: si vous voulez l'envoyer de façon sécurisée à quelqu'un, vous allez peut-être devoir utiliser de la cryptographie.
 
 Ensuite dans un problème de cryptographie il faut qu'il y ait un adversaire. C'est plutôt évident ; mais une question intéressante est : comment modélise-t-on cet adversaire ? La cryptographie, comme toute science, demande à modéliser les phénomènes physiques qu'on étudie. Souvent on va modéliser l'adversaire par deux choses: ses capacités (ce qu'il est capable de faire, ce à quoi il a accès) et son objectif (ce qu'il essaie de faire). Dans les exemples pratiques qu'on verra plus tard (chiffrement d'un message avant de l'envoyer à un destinataire), l'adversaire sera capable de lire les messages pendant qu'ils sont en transit entre l'ordinateur de celui qui envoie le message et l'ordinateur de celui qui le reçoit. Par contre l'adversaire n'aura pas accès à quoi que ce soit qui se passe à l'intérieur de ces ordinateurs (la plupart du temps, si un hacker prend le contrôle de votre ordinateur, vous ne pouvez plus vraiment espérer envoyer des messages de façon sécurisée). Du côté de l'objectif, dans le cas du chiffrement de messages ce que l'adversaire cherche à faire est d'apprendre le contenu du message. Le chiffrement est le cas d'application le plus connu de la cryptographie, mais une application au moins aussi répandue est la *signature*, où l'objectif de l'adversaire cette fois-ci n'est pas d'apprendre le contenu du message mais de le modifier sans que le destinataire s'en rende compte.
 
@@ -124,7 +125,7 @@ Comment fonctionne cette fonction pseudo-aléatoire ? Là aussi on ne va pas pou
 
 Pour quelqu'un qui n'a pas la clé, il est impossible de re-construire ce flux pseudo-aléatoire, et la sécurité est similaire à quand on utilise le chiffre de Vernam.
 
-Chacha20 est utilisé par la quasi-totalité des téléphones et tablettes pour le chiffrement des données sur internet (quand vous allez sur une adresse web commençant par `https://`). Pour voir quels algorithmes votre ordinateur/tablette/téléphone utilise pour se connecter en HTTPS, allez sur le site https://www.howsmyssl.com/ et allez à la section « Given Cipher Suites ». Vous voyez la liste des algorithmes que votre navigateur a suggéré au serveur, par ordre de préférence. Pour moi, avec mon ordinateur portable, les deux premières lignes sont:
+Chacha20 est utilisé par la quasi-totalité des téléphones et tablettes pour le chiffrement des données sur internet (quand vous allez sur une adresse web commençant par `https://`). Pour voir quels algorithmes votre ordinateur/tablette/téléphone utilise pour se connecter en HTTPS, allez sur le site [https://www.howsmyssl.com/](https://www.howsmyssl.com/) et allez à la section « Given Cipher Suites ». Vous voyez la liste des algorithmes que votre navigateur a suggéré au serveur, par ordre de préférence. Pour moi, avec mon ordinateur portable, les deux premières lignes sont:
 
     TLS_AES_128_GCM_SHA256
     TLS_CHACHA20_POLY1305_SHA256
