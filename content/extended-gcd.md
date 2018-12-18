@@ -1,6 +1,7 @@
 ---
 publication date: 2017-12-16
 slug: extended-gcd
+lang: en
 ---
 
 # The Extended Euclidean Algorithm Explained

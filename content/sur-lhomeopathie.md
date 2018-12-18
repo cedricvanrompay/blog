@@ -1,6 +1,7 @@
 ---
 publication date: 2018-03-17
 slug: sur-lhomeopathie
+lang: fr
 ---
 
 # Sur l'homéopathie

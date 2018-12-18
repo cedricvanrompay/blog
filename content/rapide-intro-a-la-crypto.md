@@ -1,6 +1,7 @@
 ---
 publication date: 2018-11-07
 slug: une-tres-rapide-introduction-a-la-cryptographie
+lang: fr
 ---
 
 # Une (très) Rapide Introduction à la Cryptographie

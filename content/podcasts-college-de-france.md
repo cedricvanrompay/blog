@@ -1,5 +1,6 @@
 ---
 publication date: 2018-01-16
+lang: fr
 ---
 
 # Les Podcasts du Collège de France
