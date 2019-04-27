@@ -32,10 +32,10 @@ Le thème de la mesure de la qualité de l'air a d'autres avantages comme projet
 
 Pour faciliter l'intégration des différents sous-projets entre eux et donner la possibilité aux élèves d'en réaliser un sans avoir nécessairement à réaliser les autres, il faudrait avoir une implémentation de référence qui serve de norme pour les implémentations des élèves et de substituts aux projets dont ils dépendent mais qu'ils n'ont pas réalisé.
 
-Avoir plusieurs classes voire établissements qui réalisent des projets similaires et/ou interopérables serait serait une chose fantastique. Cela ajouterait des dimensions de compétition et surtout de collaboration qui pourraient décupler l'intérêt des élèves et révéler des vocations.
+Avoir plusieurs classes voire établissements qui réalisent des projets similaires et/ou interopérables serait une chose fantastique. Cela ajouterait des dimensions de compétition et surtout de collaboration qui pourraient décupler l'intérêt des élèves et révéler des vocations.
 
 Aussi, un projet-plateforme bénéficie d'un « effet de réseau » : une fois qu'un des projets est réalisé dans le cadre d'un cours, cela devient encore plus intéressant pour les autres cours ou les autres classes de trouver des moyens de s'y rattacher. Et au fur et à mesure que des établissements rejoignent un même projet-plateforme, il deviendra de plus en plus intéressant pour les autres établissements de le rejoindre également.
 
-Je me dis donc que si je trouve le temps et la motivation, je devrais réaliser moi-même une première série d'implémentations de projets qui s'appuie sur cette plateforme, pour pouvoir fournir des projets presque « clé en main » aux enseignants qui voudrait rejoindre le programme.
+Je me dis donc que si je trouve le temps et la motivation, je devrais réaliser moi-même une première série d'implémentations de projets qui s'appuie sur cette plateforme, pour pouvoir fournir des projets presque « clé en main » aux enseignants qui voudraient rejoindre le programme.
 
-Je ne peux pas m'empêcher de réfléchir à d'autres thèmes possibles de projet-plateforme, mais j'ai du mal à en trouver qui se prêtent aussi bien à ce concept de « projet-plateforme » scolaire.
+Je ne peux pas m'empêcher de réfléchir à d'autres thèmes que la mesure de la qualité de l'air, mais j'ai du mal à en trouver qui se prêtent aussi bien à ce concept de « projet-plateforme » scolaire.
