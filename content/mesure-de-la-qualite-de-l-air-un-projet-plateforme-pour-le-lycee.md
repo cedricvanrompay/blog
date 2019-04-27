@@ -1,6 +1,7 @@
 ---
 publication date: 2019-04-27
 lang: fr
+slug: mesure-de-la-qualite-de-l-air-un-projet-plateforme-pour-le-lycee
 ---
 
 # Mesure de la qualité de l'air : un projet-plateforme pour le lycée
