@@ -20,7 +20,7 @@ Voici les sous-projets qu'on peut envisager pour ce projet-plateforme :
 - publication des données, typiquement sous forme d'un site web
 - agrégation de résultats venant de plusieurs stations
 
-Ces projets couvrent une grande partie des thèmes présents dans le nouveau programme « Sciences numériques et technologie » de la classe de seconde. Plus précisément, ce projet-plateforme couvre naturellement les thématiques suivantes :
+Ces projets couvrent une grande partie des thèmes présents dans [le nouveau programme « Sciences numériques et technologie » de la classe de seconde][prog-seconde]. Plus précisément, ce projet-plateforme couvre naturellement les thématiques suivantes :
 
 - Internet
 - Le Web
@@ -28,6 +28,8 @@ Ces projets couvrent une grande partie des thèmes présents dans le nouveau pro
 - Informatique embarquée et objets connectés
 
 L'agrégation de données venant de plusieurs stations peut permettre de couvrir également la thématique « localisation, cartographie et mobilité ». On pourrait réfléchir à des projets se rattachant à ce projet-plateforme qui couvriraient les deux thématiques restantes, « les réseaux sociaux » et « la photographie numérique ».
+
+[prog-seconde]: https://cache.media.education.gouv.fr/file/SP1-MEN-22-1-2019/08/5/spe641_annexe_1063085.pdf
 
 Le thème de la mesure de la qualité de l'air a d'autres avantages comme projet-plateforme. Tout d'abord il touche à un sujet important, la pollution et l'environnement. Ce thème est aussi en lien étroit avec des matières comme la physique et la chimie et permet d'étendre le « projet-plateforme » encore plus dans la scolarité des élèves. On pourrait envisager que les élèves effectuent en cours de mathématique des calculs relatifs aux phénomènes étudiés en cours de physique/chimie sur des données mesurées par la station qu'ils ont construite en cours de technologie. Un bel exemple de pluridisciplinarité et de synergie, et sans doute un moyen efficace d'intéresser d'avantage les élèves en rattachant des cours qui peuvent paraître « abstraits » et « impersonnels » à quelque chose de définitivement concret et qu'ils puissent s'approprier.
 
